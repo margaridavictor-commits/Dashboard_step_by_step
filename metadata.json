@@ -1,0 +1,6 @@
+{
+  "name": "Data4Moz Dashboards",
+  "description": "Pitch comercial e configurador interativo para desenvolvimento de dashboards de alta performance por Data4Moz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
